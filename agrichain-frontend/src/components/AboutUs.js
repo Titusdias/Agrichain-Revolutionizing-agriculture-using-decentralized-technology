@@ -70,10 +70,10 @@ const AboutUs = () => {
                 </dt>
                 <dd className="mt-2 ml-16 text-base text-gray-700">
                   <ul>
-                    <li>Akshaya Kumar S 4SO21CS014</li>
-                    <li>Gurukiran Y 4SO21CS056</li>
-                    <li>H K Karunprasad 4SO21CS057</li>
-                    <li>Hanamaraddi Bhandi 4SO21CS059</li>
+                    <li>Titus Dias 4SO23CS242</li>
+                    <li>Nithin HM 4SO21CS100</li>
+                    <li>Hemant Murlapur 4SO24CS408</li>
+                    <li>Thilak 4SO24CS423</li>
                   </ul>
                 </dd>
               </div>
