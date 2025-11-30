@@ -10,7 +10,7 @@
 
 **AgriChain** is a decentralized web application (dApp) built to solve core inefficiencies in the traditional agricultural supply chain. By leveraging **Ethereum Smart Contracts**, **IPFS decentralized storage**, and cutting-edge **AI insights**, we connect farmers directly with consumers and laborers, ensuring transparency, security, and profitability.
 
-This project was initially developed as a Mini-Project at **St. [cite_start]Joseph Engineering College, Mangaluru** (VTU Affiliated) [cite: 1] [cite_start]during the 2022-2023 academic year[cite: 27].
+This project was initially developed as a Mini-Project at SJEC
 
 ## ✨ Key Features
 
